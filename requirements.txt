@@ -92,3 +92,4 @@ Werkzeug
 wheel
 wrapt
 setuptools
+pipeline
