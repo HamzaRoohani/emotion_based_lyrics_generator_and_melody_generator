@@ -91,4 +91,4 @@ webcolors
 Werkzeug
 wheel
 wrapt
-distutils
+setuptools
