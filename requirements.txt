@@ -93,3 +93,4 @@ wheel
 wrapt
 setuptools
 pipeline
+torch
